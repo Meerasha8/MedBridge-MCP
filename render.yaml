@@ -14,4 +14,4 @@ services:
       - key: MCP_SECRET_KEY
         sync: false
       - key: PYTHON_VERSION
-        value: "3.11"                 # Render currently supports up to 3.11 natively
+        value: "3.12.10"
